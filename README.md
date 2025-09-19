@@ -3,4 +3,4 @@ Small high quality scored examples to train Neutral Point of View models.
 
 # Authors
 This dataset was written equally by:
-Anella Bertrand, Jessica Hoffmann, Gabriel Moreno and Aria Walfrand.
+Anella Bertan, Jessica Hoffmann, Gabriel Moreno and Aria Walfrand.
